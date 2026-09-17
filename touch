@@ -2,3 +2,6 @@
 
 > touch FILE_NAME
 
+; such as
+> touch main.py
+

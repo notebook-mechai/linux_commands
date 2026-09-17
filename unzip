@@ -4,3 +4,6 @@
 
 ; for unzip ziped files
 > sudo unzip ZIPED_FILE_NAME
+
+; such as
+> sudo upzip product.zip

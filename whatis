@@ -1,0 +1,5 @@
+
+> whatis -h
+> whatis -d ls
+> whatis -v ls
+> whatis -r ls

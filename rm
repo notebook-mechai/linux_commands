@@ -1,3 +1,6 @@
 ; Delete files
 
 > rm  file_name
+
+; such as
+> rm note.txt
