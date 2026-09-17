@@ -1,0 +1,17 @@
+; create an extract archived files
+
+; -c  create an archive by bundling files and directories together
+; -x  extracts files and directories from an existing archive
+; -f  Specifies the filename of the archive to be created or extracted.
+; -t  Displays or lists the files and directories contained within an archive.
+; -u  Archives and adds new files or directories to an existing archive.
+; -v  Displays verbose information, providing detailed output during the archiving or extraction process.
+; -A  Concatenates multiple archive files into a single archive.
+; -z  Uses gzip compression when creating a tar file, resulting in a compressed archive with the ‘.tar.gz’ extension.
+; -j  Uses bzip2 compression when creating a tar file, resulting in a compressed archive with the ‘.tar.bz2’ extension.
+; -W  Verifies the integrity of an archive file, ensuring its contents are not corrupted.
+; -r  Updates or adds files or directories to an already existing archive without recreating the entire archive.
+
+
+
+> tar -cvf test.tar first.txt

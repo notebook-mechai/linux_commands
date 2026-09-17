@@ -1,0 +1,4 @@
+; Creates a directory.
+
+> mkdir FOLDER_NAME
+

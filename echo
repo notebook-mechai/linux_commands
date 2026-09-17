@@ -1,0 +1,4 @@
+; Print string or text to the terminal
+
+> echo "smile"
+> echo -e "wtite something" > first.txt

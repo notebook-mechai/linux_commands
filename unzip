@@ -1,0 +1,6 @@
+; first leve; you must install unzip
+> sudo apt-get install unzip
+
+
+; for unzip ziped files
+> sudo unzip ZIPED_FILE_NAME

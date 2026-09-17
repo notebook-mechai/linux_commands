@@ -1,0 +1,7 @@
+; Check the lines, word count, and characters in a file using different options
+
+; wc -w shows the number of words
+; wc -l shows the number of lines
+; wc -m shows the number of characters present in a file
+
+> 

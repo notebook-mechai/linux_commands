@@ -1,0 +1,22 @@
+; sort the file content ( sort lines in ascending or descending order )
+
+; > -o  Specifies an output file for the sorted data. Functionally equivalent to redirecting output to a file.
+; > -r  Sorts data in reverse order (descending).
+; > -n  Sorts a file numerically (interprets data as numbers).
+; > -nr Sorts a file with numeric data in reverse order. Combines -n and -r options.
+; > -k  Sorts a table based on a specific column number.
+; > -c  Checks if the file is already sorted and reports any disorder.
+; > -u  Sorts and removes duplicate lines, providing a unique sorted list.
+; > -M  Sorts by month names.
+
+
+> cat first.txt
+
+; the basic syntax of the sort command is:
+> sort first.txt
+
+; To sort numbers in numerical order, you can use the -n option.
+> sort -n first.txt
+
+; The sort command can also be used to sort lines based on specific fields using the -k option.
+> sort -k 2 first.txt

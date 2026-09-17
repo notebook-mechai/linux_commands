@@ -1,0 +1,5 @@
+; View the exact location of any command typed after this command
+
+
+> whereis printf
+> whereis echo

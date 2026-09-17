@@ -1,0 +1,7 @@
+; find file in terminal
+
+> find /home/username/myfolder/*.txt
+> find /home/username/projects/ -type f -name "*.txt"
+
+> find /home/morteza/codes/ -type d -name "text"
+> find /home/morteza/codes/ -type d -name "docs"

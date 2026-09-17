@@ -1,0 +1,4 @@
+; create empty files
+
+> touch FILE_NAME
+

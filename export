@@ -1,0 +1,11 @@
+; The ‘export’ command is one of the essential built-in commands in the Bash shell, allowing users to manage environment variables effectively.
+
+; In Bash, environment variables are set when you start a new shell session, 
+; and changes to these variables are not automatically picked up by the shell. 
+
+
+; Without any argument: 
+> export
+
+; To view all exported variables on current shell
+> export -p

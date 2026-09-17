@@ -1,0 +1,15 @@
+; shutdown linuxc using commanf line
+
+> sudo shutdown -h {TIME}
+
+> sudo shutdown -h now
+> sudo shutdown -h +0
+
+> sudo shutdown -h +32 &
+
+
+> sudo systemctl poweroff
+
+> sudo /sbin/shutdown -h 
+
+> sudo poweroff

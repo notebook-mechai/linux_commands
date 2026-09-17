@@ -1,0 +1,7 @@
+; To navigate between different folders.
+
+> cd path_of_directory
+
+;  go to root directory
+> cd ~
+

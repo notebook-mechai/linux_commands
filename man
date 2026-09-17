@@ -1,0 +1,3 @@
+; Access manual for all Linux commands
+
+> man command_name

@@ -1,0 +1,10 @@
+; change owner file or folder
+> sudo chown  OWNER_NAME FILE_OR_FOLDER_NAME
+
+
+; change owner folder with sub folder and any files into root folder
+> sudo chown -R OWNER_NAME FOLDER_NAME
+
+
+; change owner for disk
+> sudo chown -R jack:jack /media/USERNAME/ce92047f-333b-47f1-befb-382d45a5849e

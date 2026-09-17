@@ -1,0 +1,18 @@
+; for restart you linux os
+
+> /sbin/reboot
+> /sbin/shutdown -r now
+> /sbin/shuwdown -r {TIME}
+
+> sudo systemctl reboot
+
+> sudo reboot
+
+> sudo shutdown -r  {TIME}
+> sudo shutdown  -r +10
+
+> sudo systemctl reboot --firware-setup
+
+
+; for cancel  restart when you user  restart command with time
+> sudo shutdown -c

@@ -1,0 +1,3 @@
+; Delete files
+
+> rm  file_name

@@ -1,0 +1,4 @@
+; check the details of the file system
+
+> df
+> df -h

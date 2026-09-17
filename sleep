@@ -1,0 +1,15 @@
+; sleep system
+
+
+; this is used for specifying seconds
+> sudo sleep 16s
+
+
+; this is used for specifying hours
+> sudo sleep 3h
+
+; this is used for specifying days
+> sudo sleep  2d
+
+; this is used for specifying minute
+> sudo sleep 5m

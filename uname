@@ -1,0 +1,4 @@
+; Command to get basic information about the OS
+
+> uname
+> uname -a

@@ -1,0 +1,4 @@
+; Removes empty directories from the directory lists.
+
+> rmdir FOLDER_NAME
+

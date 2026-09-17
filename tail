@@ -1,0 +1,16 @@
+; show content file
+
+; -n  lines
+; -c  bytes
+; -q  quiet
+; -v verbose
+; -f follow
+
+> tail -n 5 first.txt
+> tail -5 first.txt
+> tail -c 410 first.txt
+> tail first.txt second.txt
+> tail -q first.txt second.txt
+> tail -f first.txt
+> tail -v first.txt
+> tail -n 7 first.txt | sort -r

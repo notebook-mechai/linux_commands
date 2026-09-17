@@ -1,0 +1,4 @@
+; Create shortcuts to other files
+
+> ln -s  demo  linked
+

@@ -1,0 +1,5 @@
+; compare two files
+
+> diff first second
+> cmp first second
+> comm first second
