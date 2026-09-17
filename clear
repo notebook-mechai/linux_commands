@@ -1,4 +1,4 @@
-; clear terminal 
+; Clear all commands output in the terminal.
 
 > clear
 

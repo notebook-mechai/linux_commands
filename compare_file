@@ -1,4 +1,4 @@
-; compare two files
+; Compare content two files
 
 > diff first second
 > cmp first second
