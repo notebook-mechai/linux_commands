@@ -1,0 +1,8 @@
+; install flatpak software
+
+> sudo apt install flatpak
+
+
+; for install flatpak Files
+
+> sudo flatpak install FILE_NAME.flatpak
